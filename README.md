@@ -1,4 +1,4 @@
 nthuoj
 ======
 
-nthu online judge
+oj
